@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "680538806937",
+    "project_id": "easy-invoice-platform",
+    "storage_bucket": "easy-invoice-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680538806937:android:7764c2eb4fc1c3595df608",
+        "android_client_info": {
+          "package_name": "tech.misterapps.easyinvoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680538806937-g70b8ns14euuqga59h1fepkhggii37uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbLBHniQZOgoQcTVu4NOC0HbbQriHnNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680538806937-g70b8ns14euuqga59h1fepkhggii37uo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680538806937-ahuur4h55aej5g5hfo578bpe5daeavri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.misterapps.easyinvoice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
